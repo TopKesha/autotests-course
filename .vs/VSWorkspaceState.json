@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\section1",
+    "\\section2",
+    "\\section3"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\section3\\test_xfails.py",
   "PreviewInSolutionExplorer": false
 }
